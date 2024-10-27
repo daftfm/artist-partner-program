@@ -9,7 +9,10 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 ## Growth
 We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, youtube, email list, etc.
 
-Once we have your permission to post your content on our channels we will add your videos (music, content, etc.) to our YouTube channel, and SEO optimize them to get your content in front of our subscribers - both current and future.
+Once we have your permission to post your content on our channels we will add your videos (music, content, etc.) to our YouTube channel, and SEO optimize them to get your content in front of our subscribers - both current and future - from youtube and search engines.
+
+An additional `88,279` views from search engines by optimizing SEO:
+![2 (1)](https://github.com/user-attachments/assets/6902ea8e-598e-4af6-910f-9d8bcb09ca59)
 
 We repost your popular videos, and even create new content for you like lyric music videos [example](https://www.youtube.com/watch?v=vDghI-UHCGM), [example](https://www.youtube.com/watch?v=1FMdnelUHJM), etc.
 
@@ -25,8 +28,8 @@ These videos will also be embeded (added) to our website, and other relevant pro
 ## Education
 We help you with the *internet business* side of things with courses, coaching & mentorship for various growth hacks, online optimizations, etc. to help you succeed, like:
 
-- How to make more money from your music by optimizing the release channels
-- How to claim your verified youtube artist topic channel
+- [How to optimize & leverate your YouTube "Topic" Channel][youtube-topic-channel]
+- How to make more money from your music by optimizing your release
 - How to optimize your online presence to look more legitmate, and get in front of more listeners.
 - Getting listed on more music websites like Discogs, Musicbrainz, Genius.com, Resident Advisor, etc.
 - Spotify growth hacks
@@ -40,5 +43,5 @@ We help you with the *internet business* side of things with courses, coaching &
 
 <!-- links -->
 
-
+[youtube-topic-channel]: /docs/youtube-topic-channel.md
 
