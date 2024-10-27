@@ -1,4 +1,4 @@
-# README
+a# README
 
 The DAFT FM artist partner program is how we help artists thrive.
 
@@ -17,8 +17,7 @@ One of the ways we help artists is by helping them reach a larger audience, by p
 
 
 
-
 <!-- links -->
 
-- []: []
+[youtube-promotion]: [daftfm/partner-program/promotion]
 
