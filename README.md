@@ -4,29 +4,34 @@ The DAFT FM artist partner program is how we help artists thrive.
 
 **How we help:**
 - [Growth](#growth)
-- Education
+- [Education](#education)
 - Tools
 
 
 ## Growth
-We help you grow your audience by promoting your work to our audience through various channels, like:
-
-- Website
-- YouTube
-- Email
-
-
-## How it works
+We help you grow your audience by promoting your work to our audience through various channels, like our website, youtube account, email list, etc.
 
 Once we have your permission to post your content on our channels we will add your videos (music, content, etc.) to our YouTube channel, and SEO optimize them to get your content in front of our subscribers - both current and future.
 
-In the video description we will include links to your website, your socials properties, etc. to make sure our subs can get to your brand. We use a a proprietary link shortener and tracking system so that you will also have access to see data on how much clicks we are sending you, where the people are coming from, etc.
+We repost your popular videos, and even create new content for you like lyric music videos [example](https://www.youtube.com/watch?v=vDghI-UHCGM), [example](https://www.youtube.com/watch?v=1FMdnelUHJM), etc.
 
-These videos wiill also be embeded (added) to our website, and other relevant properties, to maximize your reach across the internet.
+In the video descriptions we will always include links to your website, your socials properties, etc. to make sure our subs can get to your brand. We use a a proprietary link shortener and tracking system so that you will also have access to see data on how much clicks we are sending you, where the people are coming from, etc.
+
+These videos will also be embeded (added) to our website, and other relevant properties, to maximize your reach across the internet.
+
+> There is no cost to this. It's free.
+
+
+## Education
+We help you with the *internet business* side of things with courses, coaching & mentorship for various things that will help you succeed, like claiming your verified youtube artist topic channel and leveraging that to help you build out a more legitimate online presence, get your music in front of more people, etc.
+
+> There is no cost to this. It's free.
+
+
 
 
 
 <!-- links -->
 
-[youtube-promotion]: [daftfm/partner-program/docs/youtube-promotion.md]
+
 
