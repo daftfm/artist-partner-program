@@ -11,10 +11,13 @@ We help you grow your audience by promoting _your work_ to _our audience_ on var
 
 Once we have your permission to post your content on our channels we will add your videos (music, content, etc.) to our YouTube channel, and SEO optimize them to get your content in front of our subscribers - both current and future - from youtube and search engines.
 
-An additional `88,279` views from search engines by optimizing SEO:
 ![2 (1)](https://github.com/user-attachments/assets/6902ea8e-598e-4af6-910f-9d8bcb09ca59)
+> An additional `88,279` views from search engines by optimizing SEO:
+<br>
 
-We repost your popular videos, and even create new content for you like lyric music videos [example](https://www.youtube.com/watch?v=vDghI-UHCGM), [example](https://www.youtube.com/watch?v=1FMdnelUHJM), etc.
+We repost your popular videos, and even create new content for you like lyric music videos.
+- [example](https://www.youtube.com/watch?v=vDghI-UHCGM)
+- [example](https://www.youtube.com/watch?v=1FMdnelUHJM)
 
 In the video descriptions we will always include links to your website, your socials properties, etc. to make sure our subs can get to your brand. 
 
