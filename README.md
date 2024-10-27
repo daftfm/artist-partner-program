@@ -1,8 +1,6 @@
 # README
 
-The DAFT FM artist partner program is how we help artists thrive.
-
-**How we help:**
+The DAFT FM artist partner program is how we help artists thrive, by providing resources & services for:
 - [Growth](#growth)
 - [Education](#education)
 - Tools
