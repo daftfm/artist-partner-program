@@ -6,7 +6,6 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 - Tools
 
 
-<br>
 ## Growth
 We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, youtube, email list, etc.
 
@@ -23,7 +22,6 @@ These videos will also be embeded (added) to our website, and other relevant pro
 > There is no cost to this. It's free.
 
 
-<br>
 ## Education
 We help you with the *internet business* side of things with courses, coaching & mentorship for various growth hacks, online optimizations, etc. to help you succeed, like:
 
