@@ -5,6 +5,8 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 - [Education](#education)
 - Tools
 
+> There is no cost to any of these services. They are all pro-bono.
+
 
 ## Growth
 
@@ -23,8 +25,6 @@ Once we have your permission to post your content on our channels, we will add y
 In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
 
 
-
-
 ### Unique Content Creation
 We can repost your popular videos or create original content specific to your music, such as:
 - <a href="https://www.youtube.com/playlist?list=PL8bbllzXERyf75lf5xCBnwMlJnUIsoaYB" target="_blank">Lyric music videos</a>
@@ -40,9 +40,6 @@ We can repost your popular videos or create original content specific to your mu
 ### Analytics & Tracking
 We use a proprietary link shortener with built-in analytics and tracking so you can see data on how many clicks you're getting, where people are coming from, etc.
 
-> There is no cost to this. It's free.
-
-
 
 
 ## Education
@@ -54,9 +51,6 @@ We support you with the *internet business* side of things through courses, coac
 - Getting listed on more music websites like Discogs, Musicbrainz, Genius.com, Resident Advisor, etc.
 - Spotify growth hacks
 - etc.
-
-> There is no cost to this. It's free.
-
 
 
 
