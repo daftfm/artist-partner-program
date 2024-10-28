@@ -9,8 +9,6 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 
 
 ## Growth
-
-### Content Syndication/Promotion
 We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, YouTube, email list, like:
 
 - [Reposting your shorts from other platforms](https://www.youtube.com/shorts/qR5tQj3t420)
@@ -37,8 +35,16 @@ We can repost your popular videos or create original content specific to your mu
 - Posts in our online <a href="https://github.com/orgs/daftfm/discussions" target="_blank">community</a>
 
 
-### Analytics & Tracking
-We use a proprietary link shortener with built-in analytics and tracking so you can see data on how many clicks you're getting, where people are coming from, etc.
+### Playlist & Setlist placements
+
+Using your songs in our [personally curated playlists](https://serp.ly/@serp/playlist)
+
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/a9d707ea-c2ec-412c-8211-6a9d769cc4dc">
+
+<br><br>
+Including your songs in [DJ Sets](https://open.spotify.com/track/1270ulVPY9HErPEfmwhFEY?si=98ed2ad57e4e4b0b) (if relevant), which can contribute to alot of new listens & shazams
+
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/e3179ff4-8ee4-4767-a4c9-39a8edca3a66">
 
 
 
@@ -51,6 +57,12 @@ We support you with the *internet business* side of things through courses, coac
 - Getting listed on more music websites like Discogs, Musicbrainz, Genius.com, Resident Advisor, etc.
 - Spotify growth hacks
 - etc.
+
+
+## Tools
+We use a proprietary link shortener with built-in analytics and tracking for all your links, so you can see data on how many clicks you're getting, where people are coming from, etc.
+
+![Screenshot 2024-10-27 at 19 24 37](https://github.com/user-attachments/assets/08715afb-7505-4eca-bd1a-f848c4225f52)
 
 
 
