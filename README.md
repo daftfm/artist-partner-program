@@ -45,6 +45,8 @@ Using your songs in our [personally curated playlists](https://serp.ly/@serp/pla
 Including your songs in [DJ Sets](https://open.spotify.com/track/1270ulVPY9HErPEfmwhFEY?si=98ed2ad57e4e4b0b) (if relevant), which can contribute to alot of new listens & shazams
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/e3179ff4-8ee4-4767-a4c9-39a8edca3a66">
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/16d34113-aa5f-4316-98d2-c526cf760abc">
+
 
 
 
