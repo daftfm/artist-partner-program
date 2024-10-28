@@ -7,6 +7,8 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 
 
 ## Growth
+
+### Content Syndication/Promotion
 We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, youtube, email list, etc.
 
 Once we have your permission to post your content on our channels we will add your videos (music, content, etc.) to our YouTube channel, and SEO optimize them to get your content in front of our subscribers - both current and future - from youtube and search engines.
@@ -15,15 +17,25 @@ Once we have your permission to post your content on our channels we will add yo
 > An additional `88,279` views from search engines by optimizing SEO:
 <br>
 
-We repost your popular videos, and even create new content for you like lyric music videos.
+In the video descriptions we will always include links to your website, your socials properties, etc. to make sure our subs can get to your brand. 
+
+These videos will also be embeded (added) to our website, and other relevant properties, to maximize your reach across the internet.
+
+
+### Unique Content Creation
+We can repost your popular videos, or even create original content specific to your music, like: 
+
+
+#### Lyric music videos
 - [example](https://www.youtube.com/watch?v=vDghI-UHCGM)
 - [example](https://www.youtube.com/watch?v=1FMdnelUHJM)
 
-In the video descriptions we will always include links to your website, your socials properties, etc. to make sure our subs can get to your brand. 
 
-We also use a proprietary link shortener with built-in analytics & tracking so that can see data on how many clicks you're getting, where the people are coming from, etc.
+#### Sample Discovery
+- [example](https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch?utm_content=DAGUzM-nLXk&utm_campaign=designshare&utm_medium=link&utm_source=editor&success=true)
 
-These videos will also be embeded (added) to our website, and other relevant properties, to maximize your reach across the internet.
+### Analytics & Tracking
+We use a proprietary link shortener with built-in analytics & tracking so that can see data on how many clicks you're getting, where the people are coming from, etc.
 
 > There is no cost to this. It's free.
 
