@@ -9,7 +9,10 @@ The DAFT FM artist partner program is how we help artists thrive, by providing r
 ## Growth
 
 ### Content Syndication/Promotion
-We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, YouTube, email list, etc.
+We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, YouTube, email list, like:
+
+- [Reposting your shorts from other platforms](https://www.youtube.com/shorts/qR5tQj3t420)
+- [Posting your original tracks to rack up more views](https://youtu.be/9W765xvPSwg)
 
 Once we have your permission to post your content on our channels, we will add your videos (music, content, etc.) to our YouTube channel and optimize them with SEO to reach both our current and future subscribers on YouTube and search engines.
 
@@ -19,7 +22,7 @@ Once we have your permission to post your content on our channels, we will add y
 
 In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
 
-- [Reposting your shorts from other platforms](https://www.youtube.com/shorts/qR5tQj3t420)
+
 
 
 ### Unique Content Creation
