@@ -18,11 +18,11 @@ We help you grow your audience by promoting _your work_ to _our audience_ on var
 
 Once we have your permission to post your content on our channels, we will add your videos (music, content, etc.) to our YouTube channel and optimize them with SEO to reach both our current and future subscribers on YouTube and search engines.
 
+In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
+
 ![2 (1)](https://github.com/user-attachments/assets/6902ea8e-598e-4af6-910f-9d8bcb09ca59)
 > An additional `88,279` views from search engines by optimizing SEO:
 <br>
-
-In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
 
 
 ### Unique Content Creation
@@ -57,4 +57,4 @@ We support you with the *internet business* side of things through courses, coac
 
 <!-- links -->
 
-[youtube-topic-channel]: /docs/youtube-topic-channel.md
+[youtube-topic-channel]: /content/youtube-topic-channel.md
