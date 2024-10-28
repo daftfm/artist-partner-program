@@ -24,11 +24,10 @@ We will create pages for you on our [website](https://daft.fm/artists/daft-punk/
 
 ### Unique Content Creation
 We can repost your popular videos, or even create original content specific to your music, like: 
-
-**Lyric music videos**
 - [Lyric music videos](https://www.youtube.com/playlist?list=PL8bbllzXERyf75lf5xCBnwMlJnUIsoaYB)
 - [Sample discovery video](https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch?utm_content=DAGUzM-nLXk&utm_campaign=designshare&utm_medium=link&utm_source=editor&success=true)
 - [Song of the day videos](https://www.instagram.com/dvnschmchr/reel/Cs64bz-r0iS/)
+
 
 ### Analytics & Tracking
 We use a proprietary link shortener with built-in analytics & tracking so that can see data on how many clicks you're getting, where the people are coming from, etc.
