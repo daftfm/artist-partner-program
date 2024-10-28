@@ -19,20 +19,27 @@ Once we have your permission to post your content on our channels, we will add y
 
 In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
 
-We will create pages for you on our <a href="https://daft.fm/artists/daft-punk/" target="_blank">website</a>, where we can include (embed) these videos, create sections in our online <a href="https://github.com/orgs/daftfm/discussions" target="_blank">community</a>, <a href="https://www.instagram.com/dvnschmchr/reel/Cs64bz-r0iS/" target="_blank">Instagram #songoftheday features</a>, and other platforms to help you maximize your reach across the internet.
+- [Reposting your shorts from other platforms](https://www.youtube.com/shorts/qR5tQj3t420)
 
 
 ### Unique Content Creation
 We can repost your popular videos or create original content specific to your music, such as:
 - <a href="https://www.youtube.com/playlist?list=PL8bbllzXERyf75lf5xCBnwMlJnUIsoaYB" target="_blank">Lyric music videos</a>
 - <a href="https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch?utm_content=DAGUzM-nLXk&utm_campaign=designshare&utm_medium=link&utm_source=editor&success=true" target="_blank">Sample discovery videos</a>
-- <a href="https://www.instagram.com/dvnschmchr/reel/Cs64bz-r0iS/" target="_blank">Song of the day videos</a>
+- <a href="https://www.youtube.com/shorts/Tl2gTXvM1oc" target="_blank">Song of the day videos</a>
+
+
+### Website Placements
+- We will create pages for you on our <a href="https://daft.fm/artists/daft-punk/" target="_blank">website</a>, where we can include (embed) these videos
+- Posts in our online <a href="https://github.com/orgs/daftfm/discussions" target="_blank">community</a>
 
 
 ### Analytics & Tracking
 We use a proprietary link shortener with built-in analytics and tracking so you can see data on how many clicks you're getting, where people are coming from, etc.
 
 > There is no cost to this. It's free.
+
+
 
 
 ## Education
