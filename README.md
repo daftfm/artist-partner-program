@@ -90,3 +90,7 @@ We use a proprietary link shortener with built-in analytics and tracking for all
 
 ![Screenshot 2024-10-27 at 19 24 37](https://github.com/user-attachments/assets/08715afb-7505-4eca-bd1a-f848c4225f52)
 
+
+## Contribute
+
+Want to contribute more? We have plenty of stuff you can do to help us grow, just [go here & bookmark this link](https://github.com/daftfm/partner-program/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and you'll see all of the "issues" (aka todos) that are marked as `help wanted` - which means they are open for you to participate in!
