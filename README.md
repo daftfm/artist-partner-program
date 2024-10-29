@@ -1,20 +1,29 @@
 # README
 
 The DAFT FM artist partner program is how we help artists thrive, by providing resources & services for:
-- [Growth](#growth)
-- [Education](#education)
+
+- [Earn](#earn)
+- [Grow](#grow)
+- [Learn](#education)
 - Tools
 
 > There is no cost to any of these services. They are all pro-bono.
 
 
-## Growth
+## Earn
+
 We help you grow your audience by promoting _your work_ to _our audience_ on various channels like our website, YouTube, email list, like:
 
 - [Reposting your shorts from other platforms](https://www.youtube.com/shorts/qR5tQj3t420)
 - [Posting your original tracks to rack up more views](https://youtu.be/9W765xvPSwg)
 
 Once we have your permission to post your content on our channels, we will add your videos (music, content, etc.) to our YouTube channel and optimize them with SEO to reach both our current and future subscribers on YouTube and search engines.
+
+You'll leverage our following + additional organic visitors and even share in any ad revenue generated from our videos, automatically with [YouTube's Creator Music Program](https://support.google.com/youtube/answer/12823912?hl=en&ref_topic=12755369&sjid=1076782615138773579-NC).
+
+> TLDR: If you're an artist and allow others to use your music through Creator Music, you will get a cut of the revenue when they use your music in their monetized videos. Even if the creator doesn't turn on monetization themselves, the video will still be monetized and you'll receive revenue as the rights holder.
+
+## Grow
 
 In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
 
@@ -36,7 +45,6 @@ We can repost your popular videos or create original content specific to your mu
 
 
 ### Playlist & Setlist placements
-
 Using your songs in our [personally curated playlists](https://serp.ly/@serp/playlist)
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/a9d707ea-c2ec-412c-8211-6a9d769cc4dc">
@@ -46,7 +54,6 @@ Including your songs in [DJ Sets](https://open.spotify.com/track/1270ulVPY9HErPE
 
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/e3179ff4-8ee4-4767-a4c9-39a8edca3a66">
 <img width="1200" alt="image" src="https://github.com/user-attachments/assets/16d34113-aa5f-4316-98d2-c526cf760abc">
-
 
 
 
