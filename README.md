@@ -77,8 +77,8 @@ Including your songs in [DJ Sets](https://open.spotify.com/track/1270ulVPY9HErPE
 We support you with the *internet business* side of things through courses, coaching, and mentorship in growth strategies, online optimizations, etc., to help you succeed, such as:
 
 - [How to optimize & leverage your YouTube "Topic" Channel][youtube-topic-channel]
-- How to make more money from your music by optimizing your release
 - How to optimize your online presence to look more legitimate and reach more listeners
+- How to make more money from your music by optimizing your release
 - Getting listed on more music websites like Discogs, Musicbrainz, Genius.com, Resident Advisor, etc.
 - Spotify growth hacks
 - etc.
