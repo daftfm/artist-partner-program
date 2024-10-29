@@ -1,3 +1,9 @@
+<!-- links -->
+[youtube-topic-channel]: /content/youtube-topic-channel.md
+[sampled-videos]: https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch
+<!-- links -->
+
+
 # README
 
 The DAFT FM artist partner program is how we help artists thrive, by providing resources & services for:
@@ -83,10 +89,3 @@ We use a proprietary link shortener with built-in analytics and tracking for all
 
 ![Screenshot 2024-10-27 at 19 24 37](https://github.com/user-attachments/assets/08715afb-7505-4eca-bd1a-f848c4225f52)
 
-
-
-
-<!-- links -->
-
-[youtube-topic-channel]: /content/youtube-topic-channel.md
-[sampled-videos]: https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch
