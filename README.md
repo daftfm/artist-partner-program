@@ -21,7 +21,17 @@ Once we have your permission to post your content on our channels, we will add y
 
 You'll leverage our following + additional organic visitors and even share in any ad revenue generated from our videos, automatically with [YouTube's Creator Music Program](https://support.google.com/youtube/answer/12823912?hl=en&ref_topic=12755369&sjid=1076782615138773579-NC).
 
-> TLDR: If you're an artist and allow others to use your music through Creator Music, you will get a cut of the revenue when they use your music in their monetized videos. Even if the creator doesn't turn on monetization themselves, the video will still be monetized and you'll receive revenue as the rights holder.
+> TLDR/Summary:
+>
+> Creator Music is a YouTube program currently available to US YouTube Partner Program creators
+> It allows content creators to use music while sharing revenue with rights holders
+> There are two types of usage:
+>
+> Restricted usage: Limited to 30 seconds of music in videos 3+ minutes long
+> Unrestricted usage: Allows use of any length of music in any video length
+>
+> Videos using revenue-sharing tracks will be monetized even if the creator doesn't turn monetization on
+> Rights holders can track revenue-sharing videos through Studio Content Manager using a special icon
 
 ## Grow
 
