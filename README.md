@@ -40,6 +40,7 @@ You'll leverage our following + additional organic visitors and even share in an
 > Videos using revenue-sharing tracks will be monetized even if the creator doesn't turn monetization on
 > Rights holders can track revenue-sharing videos through Studio Content Manager using a special icon
 
+
 ## Grow
 
 In the video descriptions, we will always include links to your website, social media properties, etc., to ensure our subscribers can connect with your brand. 
@@ -75,10 +76,12 @@ Including your songs in [DJ Sets](https://open.spotify.com/track/1270ulVPY9HErPE
 
 
 ## Education
+
 We support you with the *internet business* side of things through courses, coaching, and mentorship in growth strategies, online optimizations, etc., to help you succeed, such as:
 
 - [How to optimize & leverage your YouTube "Topic" Channel][youtube-topic-channel]
 - [How to optimize your online presence to look more legitimate and reach more listeners][online-entity]
+- [How to make more money from your music by collaborating through YouTube shorts][]
 - How to make more money from your music by optimizing your release
 - Getting listed on more music websites like Discogs, Musicbrainz, Genius.com, Resident Advisor, etc.
 - Spotify growth hacks

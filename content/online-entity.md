@@ -8,12 +8,12 @@ When I searched my friend "That's Nice" - a music producer who has written songs
 
 Here's a screenshot:
 
-![alt text](<thats nice - 09-28-2023.png>)
+![alt text](media/thatsnice.png)
 
 
 But when I googled myself - a "music producer" who has written songs with no well known artists, it looks like this:
 
-![alt text](devinschumacher.png)
+![alt text](media/devinschumacher.png)
 
 
 You've spent alot of effort building talent & reptuation in the real world, but that doesn't mean it automatically translates to the digital world.
