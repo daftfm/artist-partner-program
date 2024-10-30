@@ -1,6 +1,6 @@
 <!-- links -->
 [youtube-topic-channel]: /content/youtube-topic-channel.md
-[sampled-videos]: https://www.canva.com/design/DAGUzM-nLXk/AdgUrwKVmqdIHhxO-ouGHA/watch
+[sampled-videos]: https://github.com/orgs/daftfm/discussions/5
 [online-entity]: /content/online-entity.md
 [youtube-shorts-money]: /content/youtube-shorts-money.md
 <!-- links -->
@@ -54,7 +54,7 @@ In the video descriptions, we will always include links to your website, social 
 ### Unique Content Creation
 We can repost your popular videos or create original content specific to your music, such as:
 - <a href="https://www.youtube.com/playlist?list=PL8bbllzXERyf75lf5xCBnwMlJnUIsoaYB" target="_blank">Lyric music videos</a>
-- [Sample discovery videos][sampled-videos]
+- [SAMPLED breakdown videos][sampled-videos]
 - <a href="https://www.youtube.com/shorts/Tl2gTXvM1oc" target="_blank">Song of the day videos</a>
 
 
