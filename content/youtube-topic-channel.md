@@ -8,4 +8,6 @@ Plays, subscribers & exposure for plays on your topic channel and across all of 
 
 ![1](https://github.com/user-attachments/assets/21924ed7-85b8-4a13-aa8b-8c9022e18eb7)
 
-... This document is a WIP (work in progress)
+## Click here to watch a how-to video
+
+<a href="https://www.youtube.com/watch?v=D9kh8GKOBek"><img width="700px" target="_blank" src="https://img.youtube.com/vi/D9kh8GKOBek/maxresdefault.jpg"></a>
