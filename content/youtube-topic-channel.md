@@ -10,4 +10,4 @@ Plays, subscribers & exposure for plays on your topic channel and across all of 
 
 ## Click here to watch a how-to video
 
-<a href="https://www.youtube.com/watch?v=D9kh8GKOBek"><img width="700px" target="_blank" src="https://img.youtube.com/vi/D9kh8GKOBek/maxresdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=D9kh8GKOBek" target="_blank" ><img width="700px" src="https://img.youtube.com/vi/D9kh8GKOBek/maxresdefault.jpg"></a>
