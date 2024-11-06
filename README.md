@@ -89,6 +89,11 @@ We support you with the *internet business* side of things through courses, coac
 - etc.
 
 
+[![digital-marketing-for-musicians](https://github.com/user-attachments/assets/94a0dfd0-18bf-435e-92d4-9584646d9a0c)](https://youtube.com/playlist?list=PLGq4YK_k-L5glSFlJtYaqarfFsIxJPR86&si=ZP_DIeovCOfemJfp)
+
+
+
+
 ## Tools
 We use a proprietary link shortener with built-in analytics and tracking for all your links, so you can see data on how many clicks you're getting, where people are coming from, etc.
 
