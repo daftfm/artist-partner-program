@@ -12,7 +12,7 @@
 
 ## Foundational music specific properties (make these):
 - Soundcloud
-- Bandcamp
+- [Bandcamp](https://devinschumacher.bandcamp.com/)
 - Eventbrite
 
 
