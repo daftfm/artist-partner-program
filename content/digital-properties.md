@@ -1,0 +1,37 @@
+
+
+## Foundational "general" socials (create these):
+- Facebook
+- Twitter
+- IG
+- Youtube
+- Linkedin
+- Tiktok
+- Pinterest
+
+
+## Foundational music specific properties (make these):
+- Soundcloud
+- Bandcamp
+- Eventbrite
+
+
+## Distributor generated properties (claim these):
+- Spotify
+- Apple music
+- YouTube (topic channel)
+- TIDAL
+- Amazon music
+- Shazam
+
+
+## Entity music related "UGC" properties (create these):
+- discogs
+- imvdb
+- genius
+- whosampled
+- ra.com
+- musicbrainz
+- [imdb pro](https://pro.imdb.com/name/nm1590539/)
+- imdb
+- azlyrics

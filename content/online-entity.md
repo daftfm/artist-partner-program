@@ -18,4 +18,4 @@ But when I googled myself - a "music producer" who has written songs with no wel
 
 You've spent alot of effort building talent & reptuation in the real world, but that doesn't mean it automatically translates to the digital world.
 
-We can help.
+Click here to watch the full video on [Intro to Digital "Entities"](https://youtu.be/jhdNMmI3ZOA)
