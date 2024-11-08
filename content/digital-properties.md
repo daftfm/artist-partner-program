@@ -1,6 +1,6 @@
 
 
-## Foundational "general" socials (create these):
+## Foundational socials (create these):
 - Facebook
 - Twitter
 - IG
@@ -9,13 +9,6 @@
 - Tiktok
 - Pinterest
 
-
-## Foundational music specific properties (make these):
-- Soundcloud
-- [Bandcamp](https://devinschumacher.bandcamp.com/)
-- Eventbrite
-
-
 ## Distributor generated properties (claim these):
 - Spotify
 - Apple music
@@ -23,6 +16,12 @@
 - TIDAL
 - Amazon music
 - Shazam
+
+
+## Music properties (make these):
+- Soundcloud
+- [Bandcamp](https://devinschumacher.bandcamp.com/)
+- Eventbrite
 
 
 ## Entity music related "UGC" properties (create these):
@@ -35,3 +34,4 @@
 - [imdb pro](https://pro.imdb.com/name/nm1590539/)
 - imdb
 - azlyrics
+
