@@ -34,4 +34,5 @@
 - [imdb pro](https://pro.imdb.com/name/nm1590539/)
 - imdb
 - azlyrics
+- [LyricFind](https://lyrics.lyricfind.com/)
 
